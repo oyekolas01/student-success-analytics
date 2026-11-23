@@ -29,3 +29,8 @@ Every change made to the raw data, with the reason.
   and lower Withdrawn (21.2% vs 31.2%) than all students.
 - Consequence: dropping them would bias the equity analysis.
   Report 'Unknown' as its own group.
+- Possible confounder: the '?' group has more highly educated students
+  (Postgraduate 11.4% vs 0.6%; HE Qualification 25.7% vs 14.1%).
+  Module mix does NOT explain the gap (checked by module).
+  Not yet tested: pass rate within each education level (stratified comparison).
+- Do not interpret the higher pass rate of '?' students as an effect of location.
